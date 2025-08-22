@@ -64,14 +64,4 @@
        -- Product Owner: Defines requirements, prioritizes features, represents stakeholders
        -- Scrum Master: Facilitates agile processes, removes blockers, organizes meetings
        
-
-
-    
-    
-    
-    
-    A well-designed booking system reduces friction in the user journey, increases conversion rates, and improves customer satisfaction. 
-    -- Clear navigation, intuitive interfaces, and responsive design are critical for success.
-    -- A well-designed booking system reduces friction in the user journey, increases conversion rates, and improves customer satisfaction. 
-    -- Clear navigation, intuitive interfaces, and responsive design are critical for success.
   
